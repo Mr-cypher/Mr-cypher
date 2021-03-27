@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Khausiya! ~ OwO</h1>
-<h3 align="center">A passionate Developer,Blogger & Seo From Nepal</h3>
+<h3 align="center">A passionate Developer,Blogger & Seo From Nepal 🎯 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-cypher&label=Profile%20views&color=0e75b6&style=flat-square" alt="mr-cypher" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-cypher" alt="mr-cypher" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/roshankhausiya" target="blank"><img src="https://img.shields.io/twitter/follow/roshankhausiya?logo=twitter&style=for-the-badge" alt="roshankhausiya" /></a> </p>
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/)
 
@@ -44,3 +40,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-cypher&show_icons=true&theme=radical&locale=en" alt="mr-cypher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-cypher&" alt="mr-cypher" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-cypher&label=Profile%20views&color=0e75b6&style=flat-square" alt="mr-cypher" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-cypher" alt="mr-cypher" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/roshankhausiya" target="blank"><img src="https://img.shields.io/twitter/follow/roshankhausiya?logo=twitter&style=for-the-badge" alt="roshankhausiya" /></a> </p>
