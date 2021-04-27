@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/c/itachiuchiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="itachiuchiya" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev/)
+- 🔭 I’m currently working& Learning  [Flutter]&Autoblogging(https://flutter.dev/)
 
 - 🌱 I’m currently learning **Flutter,CPA**
 
